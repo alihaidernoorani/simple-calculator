@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 let exit = false;
 do {
-    console.log(chalk.yellow("SIMPLE CALCULATOR"));
+    console.log(chalk.yellow("\nSIMPLE CALCULATOR\n"));
     const answer = await inquirer.prompt([
         {
             message: chalk.green("Enter First Number: "),
