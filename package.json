@@ -1,6 +1,6 @@
 {
   "name": "n6ar-simple-calculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple Calculator",
   "main": "index.js",
   "type": "module",
